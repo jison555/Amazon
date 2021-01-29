@@ -1,4 +1,4 @@
 # Amazon
 it is an online shopping website
 
-from first commit
+main branch readme file
